@@ -1,0 +1,55 @@
+# Unity 프로젝트 관련 무시 파일 목록
+
+# Unity 빌드 결과물
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Unity 자동 생성 파일
+/[Aa]ssets/[Aa]ddressable[Aa]sset[Ss]tate/
+/[Mm]emoryCaptures/
+
+# Unity 빌드 캐시 및 임시 파일
+/[Bb]uilds/
+/Assets/StreamingAssets/aa/
+/Assets/StreamingAssets/com.unity.addressables/
+/Library/
+/Temp/
+/Obj/
+/Logs/
+
+# 사용자 환경 설정 파일
+/[Uu]ser[Ss]ettings/
+/*.userprefs
+
+# 비주얼 스튜디오 파일 (사용 중이면 필요에 따라 무시)
+/*.csproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.unityproj
+/*.dll
+/*.exe
+/*.pdb
+/*.mdb
+/.vs/
+/.vscode/
+
+# macOS 파일
+.DS_Store
+
+# Windows 파일
+Thumbs.db
+Desktop.ini
+
+# 기타 환경 의존적인 파일
+*.bak
+*.swp
+*.lock
+*.tmp
+*.temp
