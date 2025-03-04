@@ -746,11 +746,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 2
-  cloudProjectId: 
+  cloudProjectId: 0a6969f1-3083-4cba-88ba-a5bdd1b3f2f2
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Undead_Survivor
+  organizationId: gmfrwh12-gmail-com
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
