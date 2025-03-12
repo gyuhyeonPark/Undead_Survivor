@@ -39,7 +39,7 @@ public class Enemy : MonoBehaviour
         Vector2 nextVec = dirVec.normalized * speed * Time.fixedDeltaTime;
 
         rigid.position += nextVec;
-        rigid.velocity = Vector2.zero;
+        rigid.linearVelocity = Vector2.zero;
     }
     void LateUpdate()
     {
